@@ -2,10 +2,10 @@
 # T a n g e n t 
 
 ### prerequests:
-    1. node js
-    2. python -> 3.11.0
-    3. ollama
-    4. npm
+- node js
+- python -> 3.11.0
+- ollama
+- npm
 
  download [ollama](https://ollama.com/)
 
